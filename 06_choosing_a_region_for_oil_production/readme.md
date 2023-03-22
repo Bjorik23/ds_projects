@@ -9,4 +9,4 @@
 
 ## Инструменты
 
-`Pandas` `Numpy` `Scikit-learn` `Bootstrap`
+`Python` `Pandas` `Plotly` `Math` `Scikit-learn` `Matplotlib`
